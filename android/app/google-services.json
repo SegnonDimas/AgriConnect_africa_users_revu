@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "870820419615",
+    "project_id": "agriconnect-efa2b",
+    "storage_bucket": "agriconnect-efa2b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:870820419615:android:08388c85c4681067711d2a",
+        "android_client_info": {
+          "package_name": "com.example.agribenin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "870820419615-v1ncuin9p9m2vp7rmg3he96kmsrnao16.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsF_Dfryoyba8SvEl8NHU7yNym3UEOApQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "870820419615-v1ncuin9p9m2vp7rmg3he96kmsrnao16.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "870820419615-0oj07ak279dm274r4hmddn05dj6uoc3p.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.agriconnectAfricaAdmin"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:870820419615:android:f7f53b00af0f56ac711d2a",
+        "android_client_info": {
+          "package_name": "com.example.agriconnect_africa_admin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "870820419615-v1ncuin9p9m2vp7rmg3he96kmsrnao16.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsF_Dfryoyba8SvEl8NHU7yNym3UEOApQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "870820419615-v1ncuin9p9m2vp7rmg3he96kmsrnao16.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "870820419615-0oj07ak279dm274r4hmddn05dj6uoc3p.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.agriconnectAfricaAdmin"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
